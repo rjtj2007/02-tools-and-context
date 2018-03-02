@@ -1,6 +1,5 @@
 'use strict';
 
-// do not use third party libraries
 
 const Fp = {};
 
